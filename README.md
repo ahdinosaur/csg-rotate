@@ -2,6 +2,8 @@
 
 rotate a [csg.js](https://npmjs.org/csg) solid over an `{x, y, z }` origin by a `{ x, y, z }` vector.
 
+**stability: experimental.** *expect it not to work.*
+
 ## install
 
 with [npm](https://npmjs.org), do:
