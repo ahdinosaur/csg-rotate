@@ -1,0 +1,31 @@
+{
+  "name": "csg-rotate",
+  "version": "1.0.0",
+  "description": "rotate a csg.js solid over an origin by a vector",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahdinosaur/csg-rotate.git"
+  },
+  "keywords": [
+    "csg",
+    "rotate"
+  ],
+  "author": "ahdinosaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahdinosaur/csg-rotate/issues"
+  },
+  "homepage": "https://github.com/ahdinosaur/csg-rotate#readme",
+  "devDependencies": {
+    "csg": "^1.0.1",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "gl-vec3": "^1.0.3",
+    "lodash.mapvalues": "^3.0.1"
+  }
+}
